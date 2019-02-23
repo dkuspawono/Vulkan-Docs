@@ -24,3 +24,4 @@ Perl script which generates the diff after preprocessing of the input
 HTML by 'htmldiff'. 'htmldiff.orig' is the original Python script from
 the website, modified to run at the command line instead of as a CGI
 script.
+
